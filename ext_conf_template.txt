@@ -1,0 +1,17 @@
+# cat=Connection//1; type=string; label=Translation Service URL: Full URL of the AI translation API endpoint
+apiUrl=
+
+# cat=Connection//2; type=string; label=API Key: Secret key for authenticating with the translation service
+apiKey=
+
+# cat=Behaviour//10; type=boolean; label=Automatically enable content elements after translation: When checked, translated content elements are set to visible (hidden=0) immediately after translation
+autoEnableAfterTranslation=0
+
+# cat=Behaviour//11; type=boolean; label=Disable default "Translate to" prefix: When checked, removes the "[Translate to Dutch:]" prefix that TYPO3 normally prepends to header fields during any translation
+disableTranslateToPrefix=0
+
+# cat=Behaviour//12; type=string; label=Exclude fields from translation: Comma-separated list of fields to never translate. Use "fieldname" to exclude globally or "table.fieldname" for a specific table. Example: tx_bootstrappackage_header_class, tt_content.layout
+excludeFields=
+
+# cat=Behaviour//13; type=string; label=Always translate these fields: Comma-separated list of fields to always translate, overriding all automatic checks. Use "fieldname" globally or "table.fieldname" for a specific table. Example: pages.nav_title, tx_news_domain_model_news.keywords
+includeFields=
