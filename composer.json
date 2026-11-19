@@ -1,5 +1,5 @@
 {
-    "name": "youngdogs/typo3-ai-translator",
+    "name": "young-dogs/typo3-ai-translator",
     "description": "Young Dogs AI Translation service integration for TYPO3",
     "license": "GPL-2.0-or-later",
     "type": "typo3-cms-extension",
