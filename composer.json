@@ -4,9 +4,16 @@
     "version": "1.0.0.",
     "license": "MIT",
     "type": "typo3-cms-extension",
+    "keywords"": [
+        "typo3",
+        "extension",
+        "translation",
+        "ai"
+    ],
     "authors": [
         {
-            "name": "YoungDogs"
+            "name": "Young-dogs",
+            "homepage": "https://www.young-dogs.com"
         }
     ],
     "require": {
