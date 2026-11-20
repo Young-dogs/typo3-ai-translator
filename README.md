@@ -112,3 +112,14 @@ When selected:
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+### 🌐 Connect with us
+
+* **Website:** [young-dogs.com](https://www.young-dogs.com)
+* **Network:** [LinkedIn](https://www.linkedin.com/company/young-dogs-ecommerce/)
+* **HQ:** Young-dogs España SL, Asturias, Spain 🇪🇸
+
+---
+<sub>© 2026 Young-dogs Spain. Built with passion for innovation and operational excellence.</sub>
