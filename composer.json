@@ -1,11 +1,17 @@
 {
     "name": "young-dogs/typo3-ai-translator",
     "description": "Young Dogs AI Translation service integration for TYPO3",
+    "version": "1.0.0.",
     "license": "MIT",
     "type": "typo3-cms-extension",
+    "authors": [
+        {
+            "name": "YoungDogs"
+        }
+    ],
     "require": {
-        "typo3/cms-core": "^14.3",
-        "typo3/cms-backend": "^14.3"
+        "typo3/cms-core": "^14",
+        "typo3/cms-backend": "^14"
     },
     "extra": {
         "typo3/cms": {
