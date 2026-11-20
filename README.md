@@ -1,6 +1,6 @@
-# Young Dogs AI Translator for TYPO3
+# Young-dogs AI Translator for TYPO3
 
-TYPO3 backend extension that integrates the **Young Dogs AI translation service** into the standard TYPO3 localization workflow. When translating pages or content elements in the backend, editors can choose "Translate with Young Dogs AI" to have all text fields automatically translated in one go.
+TYPO3 backend extension that integrates the **Young-dogs AI translation service** into the standard TYPO3 localization workflow. When translating pages or content elements in the backend, editors can choose "Translate with Young-dogs AI" to have all text fields automatically translated in one go.
 
 ---
 
@@ -29,7 +29,7 @@ Activate the extension via the TYPO3 Extension Manager or CLI:
 
 ## Configuration
 
-> 🚀 **Need an API key?** The Young Dogs AI translation service is available at **[young-dogs.com](https://www.young-dogs.com)**. Sign up to get your personal API endpoint URL and API key — no complex setup, just plug them in below and start translating.
+> 🚀 **Need an API key?** The Young-dogs AI translation service is available at **[young-dogs.com](https://www.young-dogs.com)**. Sign up to get your personal API endpoint URL and API key — no complex setup, just plug them in below and start translating.
 
 Go to **Admin Tools → Settings → Extension Configuration → `youngdogs_translate`**.
 
